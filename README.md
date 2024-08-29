@@ -42,7 +42,7 @@
 <br/>
 
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="40" width="40" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F1%2F1f%2FPython_logo_01.svg%2F2048px-Python_logo_01.svg.png&tbnid=qZCRX_ddAPfOZM&vet=12ahUKEwjjzba895iIAxWGnycCHXILFDcQMygAegQIARBn..i&imgrefurl=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3APython_logo_01.svg&docid=l46zW_mnRJ-Y7M&w=2048&h=2048&q=python%20logo%20png&ved=2ahUKEwjjzba895iIAxWGnycCHXILFDcQMygAegQIARBn"></code>
+<code><img height="40" width="40" src="https://banner2.cleanpng.com/20190623/yp/kisspng-python-computer-icons-programming-language-executa-1713885634631.webp"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png"></code>
