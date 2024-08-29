@@ -33,7 +33,7 @@
 
 #
 
-<a target="_blank"><img align="left" height="300" width="300" alt="GIF" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif"></a>
+<a target="_blank"><img align="left" height="230" width="230" alt="GIF" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif"></a>
 <br/>
 
 **LANGUAGES AND TOOLS:**
