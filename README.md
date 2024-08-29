@@ -18,7 +18,7 @@
 
 - 🔭 I’m currently working on **Web Development**\
 - 👯 I’m looking to collaborate on **Web Development**
-- 🤔 I’m looking for with **Internships**
+- 🤔 I’m looking for **Internships**
 - 💬 Ask me about Anything [here](https://github.com/oussama-el1/oussama-el1/issues/1)! I am happy to help.
 - 😄 Pronouns : **He/Him/His**
 
